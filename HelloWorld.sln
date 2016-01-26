@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{90B259CB-1974-4FD6-806E-543ECF90EED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.UITests", "HelloWorld.UITests\HelloWorld.UITests.csproj", "{DF79576D-665B-499A-9C5F-3AEF19B78437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B259CB-1974-4FD6-806E-543ECF90EED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B259CB-1974-4FD6-806E-543ECF90EED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B259CB-1974-4FD6-806E-543ECF90EED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B259CB-1974-4FD6-806E-543ECF90EED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF79576D-665B-499A-9C5F-3AEF19B78437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF79576D-665B-499A-9C5F-3AEF19B78437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF79576D-665B-499A-9C5F-3AEF19B78437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF79576D-665B-499A-9C5F-3AEF19B78437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

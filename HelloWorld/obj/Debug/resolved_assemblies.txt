@@ -1,0 +1,13 @@
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/HelloWorld.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/System.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/System.Xml.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/Mono.Android.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/Xamarin.Insights.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/Xamarin.Android.Support.v13.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/System.Core.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/mscorlib.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/System.ServiceModel.Internals.dll
+/Users/iths/Projects/HelloWorld/HelloWorld/obj/Debug/assemblies/System.Net.Http.dll
