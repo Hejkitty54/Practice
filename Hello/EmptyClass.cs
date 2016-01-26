@@ -4,8 +4,9 @@ namespace Hello
 {
 	public class EmptyClass
 	{
-		public EmptyClass ()
+		static void Main(string[] args)
 		{
+			Console.WriteLine ("Hello");
 		}
 	}
 }

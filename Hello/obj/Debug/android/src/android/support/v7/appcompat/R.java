@@ -1128,6 +1128,7 @@ containing a value of this type.
         public static int split_action_bar=0x7f0a001e;
         public static int submit_area=0x7f0a0039;
         public static int tabMode=0x7f0a0008;
+        public static int testText=0x7f0a003e;
         public static int title=0x7f0a002b;
         public static int top_action_bar=0x7f0a0020;
         public static int up=0x7f0a0021;

@@ -914,7 +914,7 @@ namespace Hello
 			public const int myButton = 2131361852;
 			
 			// aapt resource value: 0x7f0a003d
-			public const int myButton2 = 2131361853;
+			public const int myButton3 = 2131361853;
 			
 			// aapt resource value: 0x7f0a0012
 			public const int never = 2131361810;
@@ -1180,6 +1180,9 @@ namespace Hello
 			
 			// aapt resource value: 0x7f0b000d
 			public const int hello = 2131427341;
+			
+			// aapt resource value: 0x7f0b000f
+			public const int kozue = 2131427343;
 			
 			static String()
 			{
