@@ -10,6 +10,7 @@ namespace HelloWorld
 	{
 		int count = 1;
 		EditText ed;
+		TextView tv;
 
 		protected override void OnCreate (Bundle savedInstanceState)
 		{
@@ -29,9 +30,10 @@ namespace HelloWorld
 			button2.Click += delegate {
 				ed = FindViewById<EditText> (Resource.Id.myText);
 				string st = ed.Text;
-				Console.WriteLine(st);
-
+				tv=FindViewById<TextView>(Resource.Id.myView);
+				tv.Hint=st;
 			};
+
 		}
 	}
 }

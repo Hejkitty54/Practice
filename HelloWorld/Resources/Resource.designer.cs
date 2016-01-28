@@ -991,6 +991,12 @@ namespace HelloWorld
 			// aapt resource value: 0x7f0a0008
 			public const int tabMode = 2131361800;
 			
+			// aapt resource value: 0x7f0a0040
+			public const int textView1 = 2131361856;
+			
+			// aapt resource value: 0x7f0a0041
+			public const int textView111 = 2131361857;
+			
 			// aapt resource value: 0x7f0a002b
 			public const int title = 2131361835;
 			
